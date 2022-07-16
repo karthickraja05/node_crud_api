@@ -1,0 +1,10 @@
+npm init for create package.json
+
+important packages:
+    express - (framework)
+    express-handlebars  
+    mongoose - (mongo db connection)
+    body-parser
+    nodemon - (if any changes made in code no need to start server again, it will do it)
+
+
